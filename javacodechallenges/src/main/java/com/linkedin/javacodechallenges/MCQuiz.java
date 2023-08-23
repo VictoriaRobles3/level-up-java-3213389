@@ -42,9 +42,4 @@ public class MCQuiz extends Question {
       }
     }
   }
-
-  public static void main(String[] args){
-    MCQuiz example = new MCQuiz("What is your name?", "Victoria");
-    example.getQuestion();
-  }
 }
