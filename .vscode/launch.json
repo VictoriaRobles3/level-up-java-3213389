@@ -6,6 +6,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Question",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.Question",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Client",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.Client",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "DriverQuiz",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.DriverQuiz",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "TFQuiz",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.TFQuiz",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "MCQuiz",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.MCQuiz",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "FRQuiz",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.FRQuiz",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Person",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.Person",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "quizTest",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.quizTest",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "AddZeros",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.AddZeros",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Capitalize",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.Capitalize",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "WaterBill",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.WaterBill",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Result",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.Result",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.Palindrome",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
+      "name": "Solution",
+      "request": "launch",
+      "mainClass": "com.linkedin.javacodechallenges.Solution",
+      "projectName": "javacodechallenges"
+    },
+    {
+      "type": "java",
       "name": "Launch App",
       "request": "launch",
       "mainClass": "com.linkedin.javacodechallenges.App",
